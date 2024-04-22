@@ -1,0 +1,2 @@
+# meditroncpu
+use cpu
